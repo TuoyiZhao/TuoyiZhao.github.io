@@ -2,7 +2,7 @@
 title: Tuoyi Zhao's Homepage
 description: Ph.D. candidate at University of Miami
 url: https://TuoyiZhao.github.io
-avatar: /avatar.jpeg
+avatar: /IMG_7315.png
 paginate: 5
 permalink: pretty
 cover_image: /bg.jpeg
@@ -36,7 +36,7 @@ social:
   name: Songzi Vong
   links:
     - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://github.com/TuoyiZhao
 google_site_verification: xxxxx
 lang: en
 
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Tuoyi Zhao
+  url: https://github.com/TuoyiZhao/
+  email: txz311@maimi.edu
