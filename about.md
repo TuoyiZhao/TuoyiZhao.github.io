@@ -3,6 +3,15 @@ layout: page
 title: About
 ---
 
-**Not Pure Poole** is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
+I am a fourth-year PhD candidate at Miami Herbert Business School supervised by [Prof. Lan Wang](https://sites.google.com/view/lanwang/home).
+Before that, I earned my Master in **Statistics** from University of California, SanDiego and earned my Bachelor's degree in **Applied Math** in University of Science and Technology of China.
 
-For more information about Not Pure Poole, please browse the [README](https://github.com/vszhub/not-pure-poole) file.
+Research Interests
+======
+
+My research interests include: Statistical Reinforcement Learning, Quantile Regression, Causal Inference, Dynimic Pricing and Differential Privacy. I also worked on Stochastic Differential Equation during my undergraduate.
+
+
+Teaching 
+======
+Instructor of MAS201 (Fall 2023), University of Miami
