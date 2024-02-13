@@ -2,5 +2,8 @@
   url: mailto://txz311@miami.edu
   icon: fas fa-envelope
 - title: GitHub
-  url: https://github.com/TuoyiZhao
+  url: https://github.com/TuoyiZhao/
   icon: fab fa-github
+- title: Linkedin
+  url: https://www.linkedin.com/in/tuoyi-zhao-3b11a51bb/
+  icon: fab fa-finkedin
