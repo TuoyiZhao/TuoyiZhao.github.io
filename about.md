@@ -12,6 +12,3 @@ Research Interests
 My research interests include: Statistical Reinforcement Learning, Quantile Regression, Causal Inference, Dynimic Pricing and Differential Privacy. I also worked on Stochastic Differential Equation during my undergraduate.
 
 
-Teaching 
-======
-Instructor of MAS201 (Fall 2023), University of Miami
