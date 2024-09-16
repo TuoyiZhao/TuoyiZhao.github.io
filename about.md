@@ -9,6 +9,6 @@ Before that, I earned my Master in **Statistics** from University of California,
 Research Interests
 ======
 
-My research interests include: Statistical Reinforcement Learning, Quantile Regression, Causal Inference, Dynimic Pricing and Differential Privacy. I also worked on Stochastic Differential Equation during my undergraduate.
+My research interests spans various fields, including statistics, operations management, and reinforcement learning. I am particularly interested in leveraging the unique structure of data—such as censored data, high-dimensional sparse data, and missing data—in real-world applications. Currently, I focus on privacy-concerned data-driven operations and Statistical Reinforcement Learning with high dimensional settings.
 
 
