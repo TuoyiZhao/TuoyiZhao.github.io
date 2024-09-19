@@ -10,15 +10,22 @@ My research interests spans various fields, including statistics, operations man
 
 **I am currently on the 2024-2025 academic job market.**
 
-Publications
+Publications & Working papers
 ======
 **Tuoyi Zhao**, Wen-Xin Zhou and Lan Wang. [Private optimal inventory policy learning for feature-based newsvendor with unknown demand](https://arxiv.org/abs/2404.15466), Management Science, in press.
 
 Yu Zhou, Lan Wang, Rui Song and **Tuoyi Zhao**. [Transformation-Invariant Learning of Optimal Individualized Decision Rules with Time-to-Event Outcomes](https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2068420), Journal of the American Statistical Association, 118 (544), 2632-2644.
 
-Teaching Assistant
+Infinite-Horizon Off-policy Evaluation with a Group-wise Sparse Structure. Working paper
+**Tuoyi Zhao**, Lan Wang, Chengchun Shi and Zhenglin Qi.
+
+Privacy-Aware Optimal Online Contextual Inventory Policy Learning with Censored Demand. Working paper
+**Tuoyi Zhao** and Lan Wang.
+
+Teaching Experience
 ------
 
+**TA**:
 MAS651 - Machine Learning II (2024), University of Miami, Management Science Department.
 
 MAS651 - Machine Learning II (2023), University of Miami, Management Science Department.
