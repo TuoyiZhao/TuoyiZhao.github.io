@@ -16,7 +16,8 @@ Publications & Working papers
 
 Yu Zhou, Lan Wang, Rui Song and **Tuoyi Zhao**. [Transformation-Invariant Learning of Optimal Individualized Decision Rules with Time-to-Event Outcomes](https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2068420), Journal of the American Statistical Association, 118 (544), 2632-2644.
 
-**Working papers:**
+Working papers:
+------
 
 **Tuoyi Zhao**, Lan Wang, Chengchun Shi and Zhenglin Qi. *Infinite-Horizon Off-policy Evaluation with a Group-wise Sparse Structure*, Working paper.
 
@@ -25,9 +26,10 @@ Yu Zhou, Lan Wang, Rui Song and **Tuoyi Zhao**. [Transformation-Invariant Learni
 
 
 Teaching Experience
-------
+======
 
-**TA**:
+TA:
+------
 
 MAS651 - Machine Learning II (2024), University of Miami, Management Science Department.
 
