@@ -23,3 +23,14 @@ Publications
 **Tuoyi Zhao**, Wen-Xin Zhou and Lan Wang. Private optimal inventory policy learning for feature-based newsvendor with unknown demand. Management Science, in press.
 
 Yu Zhou, Lan Wang, Rui Song and **Tuoyi Zhao**. Transformation-Invariant Learning of Optimal Individualized Decision Rules with Time-to-Event Outcomes, Journal of the American Statistical Association, 118 (544), 2632-2644.
+
+Teaching Assistant
+------
+
+MAS651 - Machine Learning II (2024), University of Miami, Management Science Department.
+
+MAS651 - Machine Learning II (2023), University of Miami, Management Science Department.
+
+Linear Algebra II (2018), University of Scirnce and Technology of China, Mathematics  Department
+
+Analytic Geometry (2017), University of Scirnce and Technology of China, Mathematics  Department
