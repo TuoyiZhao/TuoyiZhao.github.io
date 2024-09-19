@@ -12,7 +12,7 @@ My research interests spans various fields, including statistics, operations man
 
 Publications & Working papers
 ======
-**Tuoyi Zhao**, Wen-Xin Zhou and Lan Wang. [Private optimal inventory policy learning for feature-based newsvendor with unknown demand](https://arxiv.org/abs/2404.15466), Management Science, in press.
+**Tuoyi Zhao**, Wen-Xin Zhou and Lan Wang. [Private optimal inventory policy learning for feature-based newsvendor with unknown demand](https://arxiv.org/abs/2404.15466), Management Science, accepted, **in press**.
 
 Yu Zhou, Lan Wang, Rui Song and **Tuoyi Zhao**. [Transformation-Invariant Learning of Optimal Individualized Decision Rules with Time-to-Event Outcomes](https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2068420), Journal of the American Statistical Association, 118 (544), 2632-2644.
 
