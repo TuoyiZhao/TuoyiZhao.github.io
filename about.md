@@ -27,7 +27,6 @@ Working papers:
 
 Teaching Experience
 ======
-
 TA:
 ------
 
